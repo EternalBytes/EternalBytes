@@ -1,6 +1,9 @@
 ## Hello 👋, welcome to my Github.
 
-I'm a programmer who likes to study about blockchain, cryptography, backend ad frontend development. My focus is to work as a backend developer.
+I'm a programmer who likes to study about blockchain, cryptography, backend and frontend development. My focus is to work as a backend developer.
+
+Currently, I'm studying backend development and Bitcoin, Bitcoin Cash and eCash blockchain programming in order to master it to help future projects on these blockchains.
+
 
 <b>My stack</b>
 
