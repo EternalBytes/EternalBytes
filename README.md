@@ -1,19 +1,15 @@
-## Hi there 👋
+## Hello 👋, welcome to my Github.
 
-<!--
-**EternalBytes/EternalBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer who likes to study about blockchain, cryptography, backend ad frontend development. My focus is to work as a backend developer.
 
-Here are some ideas to get you started:
+<b>My stack</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/badge/Go-333333?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/react-333333?style=for-the-badge&logo=react)
+![CSS3](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css3)
 
 <h1 align="center">My Stats</h1>
 
