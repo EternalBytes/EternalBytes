@@ -1,4 +1,4 @@
-## Hello 👋, welcome to my Github.
+## Hello 👋! Welcome to my Github.
 
 I'm a programmer who likes to study about blockchain, cryptography, backend and frontend development. My focus is to work as a backend developer.
 
