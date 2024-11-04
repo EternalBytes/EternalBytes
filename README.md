@@ -2,7 +2,7 @@
 
 I'm a programmer who likes to study about blockchain, cryptography, backend and frontend development. My focus is to work as a backend developer.
 
-Currently, I'm studying backend development and Bitcoin, Bitcoin Cash and eCash blockchain programming in order to master it and help future projects on these blockchains.
+Currently, I'm studying backend development and Bitcoin, Bitcoin Cash and eCash blockchain programming in order to master it and help to build future projects on these blockchains.
 
 
 <b>My stack</b>
