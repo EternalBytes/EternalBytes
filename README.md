@@ -13,6 +13,7 @@ Currently, I'm studying backend development and Bitcoin, Bitcoin Cash and eCash 
 ![Node.js](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/react-333333?style=for-the-badge&logo=react)
 ![CSS3](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css3)
+![](https://komarev.com/ghpvc/?username=eternalbytes&color=333333&style=for-the-badge)
 
 <h1 align="center">My Stats</h1>
 
