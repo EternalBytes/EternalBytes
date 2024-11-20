@@ -21,7 +21,7 @@ Currently, I'm studying backend development and Bitcoin, Bitcoin Cash and eCash 
   <table style="margin: 0 auto;">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=EternalBytes&theme=react&hide_border=true"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=eternalbytes&theme=react&hide_border=true" alt="GitHub Streak" />
       </td>
       <td>
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalBytes&layout=compact&theme=react&count_private=true&hide_border=true"/>
